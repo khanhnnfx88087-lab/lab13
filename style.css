@@ -1,0 +1,26 @@
+body {
+  padding-top: 10px;
+}
+
+.carousel {
+  margin-bottom: 4rem;
+}
+
+.carousel-item {
+  height: 32rem;
+  background-color: #000;
+  background-position: top;
+  background-size: cover;
+}
+
+.bg-img1 {
+  background-image: url("https://i1.sndcdn.com/artworks-Rp1ROoSCx37kboBB-TMNiNg-t500x500.jpg");
+}
+
+.bg-img2 {
+  background-image: url("https://i1.sndcdn.com/artworks-Rp1ROoSCx37kboBB-TMNiNg-t500x500.jpg");
+}
+
+.bg-img3 {
+  background-image: url("https://i1.sndcdn.com/artworks-Rp1ROoSCx37kboBB-TMNiNg-t500x500.jpg");
+}
